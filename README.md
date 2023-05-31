@@ -1,14 +1,14 @@
 # Nicolás Tlapala Escobar
 
 ## Datos de contacto
-- Dirección: [Calle, Ciudad, País]
-- Teléfono: [Número de teléfono]
-- Correo electrónico: [Dirección de correo electrónico]
-- GitHub: [Nombre de usuario de GitHub]
-- Sitio web: [Sitio web personal]
+- Dirección: Zacualpan de Amilpas, Morelos, MX.
+- Teléfono: +52 735 210 0951
+- Correo electrónico: n.tlapalaescobar@gmail.com
+- GitHub: tlapala.github.io
+- Sitio web: www.linkedin.com/in/tlapala
 
-## Resumen
-[Una breve descripción de ti mismo/a y tus habilidades clave.]
+%## Resumen
+%[Una breve descripción de ti mismo/a y tus habilidades clave.]
 
 ## Experiencia laboral
 ### [Nombre de la empresa]
