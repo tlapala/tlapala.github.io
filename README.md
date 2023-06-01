@@ -1,11 +1,11 @@
 # Nicolás Tlapala Escobar
 
 ## Datos de contacto
--**Dirección:** Zacualpan de Amilpas, Morelos, MX.
--**Teléfono:** +52 735 210 0951
--**Correo electrónico:** n.tlapalaescobar@gmail.com
--**GitHub:** tlapala.github.io
--**Sitio web:** www.linkedin.com/in/tlapala
+-Dirección: Zacualpan de Amilpas, Morelos, MX.
+-Teléfono: +52 735 210 0951
+-Correo electrónico: n.tlapalaescobar@gmail.com
+-GitHub: tlapala.github.io
+-Sitio web: www.linkedin.com/in/tlapala
 
 ## Resumen
 
