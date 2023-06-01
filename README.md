@@ -10,10 +10,12 @@
 %## Resumen
 %[Una breve descripción de ti mismo/a y tus habilidades clave.]
 
+
 ## Experiencia laboral
-### [Nombre de la empresa]
+### dnsjndskjnd.
+- *Instituto de Investigación en Ciencias Básicas y Aplicadas, IICBA.*
 - **Cargo:** [Título del puesto]
-- **Fecha:** [Fecha de inicio] - [Fecha de finalización]
+- **Fecha:** Enero 2013 - Abril 2018
 - **Descripción:**
   - [Responsabilidad o logro]
   - [Responsabilidad o logro]
@@ -26,12 +28,16 @@
   - [Responsabilidad o logro]
 
 ## Educación
-### [Nombre de la institución educativa]
-- **Título:** [Título obtenido]
-- **Fecha:** [Fecha de inicio] - [Fecha de finalización]
+### Universidad Autónoma del Estado de Morelos, UAEM.
+- *Instituto de Investigación en Ciencias Básicas y Aplicadas, IICBA.*
+- **Título:** Licenciatura en Ciencias (Física)
+- **Estado académico:** 7mo. semestre concluido
+- **Fecha:** Enero 2013 - Abril 2018
 
-### [Nombre de la institución educativa]
-- **Título:** [Título obtenido]
+### Centro de Bachillerato Tecnológico Agropecuario 39, CBTa 39.
+- *Departamento de Administración y Contabilidad Rural.*
+- **Título:** Técnico en Administración y Contabilidad Rural
+- **Cédula profesional:** 7488730
 - **Fecha:** [Fecha de inicio] - [Fecha de finalización]
 
 ## Habilidades técnicas
