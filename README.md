@@ -1,11 +1,11 @@
 # Nicolás Tlapala Escobar
 
 ## Datos de contacto
-- Dirección: Zacualpan de Amilpas, Morelos, MX.
-- Teléfono: +52 735 210 0951
-- Correo electrónico: n.tlapalaescobar@gmail.com
-- GitHub: tlapala.github.io
-- Sitio web: www.linkedin.com/in/tlapala
+**Dirección:** Zacualpan de Amilpas, Morelos, MX.
+**Teléfono:** +52 735 210 0951
+**Correo electrónico:** n.tlapalaescobar@gmail.com
+**GitHub:** tlapala.github.io
+**Sitio web:** www.linkedin.com/in/tlapala
 
 ## Resumen
 
@@ -41,8 +41,8 @@
 ### Universidad Autónoma del Estado de Morelos, UAEM.
 *Instituto de Investigación en Ciencias Básicas y Aplicadas, IICBA.*
 - **Título:** Licenciatura en Ciencias (Física)
-    - Estado académico: 7mo. semestre concluido
-    - Fecha: Enero 2013 - Abril 2018
+   - Estado académico: 7mo. semestre concluido
+   - Fecha: Enero 2013 - Abril 2018
 
 ### Centro de Bachillerato Tecnológico Agropecuario 39, CBTa 39.
 *Departamento de Administración y Contabilidad Rural.*
