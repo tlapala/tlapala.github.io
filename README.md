@@ -32,14 +32,14 @@
 ### Universidad Autónoma del Estado de Morelos, UAEM.
 *Instituto de Investigación en Ciencias Básicas y Aplicadas, IICBA.*
 - **Título:** Licenciatura en Ciencias (Física)
-- **Estado académico:** 7mo. semestre concluido
-- **Fecha:** Enero 2013 - Abril 2018
+    - Estado académico: 7mo. semestre concluido
+    - Fecha: Enero 2013 - Abril 2018
 
 ### Centro de Bachillerato Tecnológico Agropecuario 39, CBTa 39.
-- *Departamento de Administración y Contabilidad Rural.*
+*Departamento de Administración y Contabilidad Rural.*
 - **Título:** Técnico en Administración y Contabilidad Rural
-- **Cédula profesional:** 7488730
-- **Fecha:** [Fecha de inicio] - [Fecha de finalización]
+    - Cédula profesional: 7488730
+    - Fecha: Agosto 2008 - Julio 2011
 
 ## Habilidades técnicas
 - [Habilidad técnica 1]
