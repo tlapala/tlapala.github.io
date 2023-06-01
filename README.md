@@ -27,9 +27,10 @@
   - [Responsabilidad o logro]
   - [Responsabilidad o logro]
 
+
 ## Educación
 ### Universidad Autónoma del Estado de Morelos, UAEM.
-- *Instituto de Investigación en Ciencias Básicas y Aplicadas, IICBA.*
+*Instituto de Investigación en Ciencias Básicas y Aplicadas, IICBA.*
 - **Título:** Licenciatura en Ciencias (Física)
 - **Estado académico:** 7mo. semestre concluido
 - **Fecha:** Enero 2013 - Abril 2018
