@@ -7,8 +7,8 @@
 - GitHub: tlapala.github.io
 - Sitio web: www.linkedin.com/in/tlapala
 
-%## Resumen
-%[Una breve descripción de ti mismo/a y tus habilidades clave.]
+## Resumen
+
 
 ## Experiencia laboral
 ### Fundación El Peñón, I.A.P.
@@ -50,24 +50,14 @@
     - Cédula profesional: 7488730
     - Fecha: Agosto 2008 - Julio 2011
 
-## Habilidades técnicas
-- [Habilidad técnica 1]
-- [Habilidad técnica 2]
-- [Habilidad técnica 3]
-
 ## Proyectos destacados
-### [Nombre del proyecto]
-- **Descripción:** [Breve descripción del proyecto]
-- **Enlace:** [Enlace al repositorio de GitHub]
+### CanSat MorSat
+- **Descripción:** ...
+- **Enlace:** morsat.github.io
 
-### [Nombre del proyecto]
-- **Descripción:** [Breve descripción del proyecto]
-- **Enlace:** [Enlace al repositorio de GitHub]
+### Python y Gnuplot para tontos
+- **Descripción:** ...
+- **Enlace:** pythongnuplottontos.github.io
 
 ## Idiomas
-- [Idioma 1]: [Nivel]
-- [Idioma 2]: [Nivel]
-
-## Referencias
-[Opcional: Referencias personales o profesionales]
-
+- Inglés: Básico
