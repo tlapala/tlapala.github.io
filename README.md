@@ -12,7 +12,7 @@
 
 ## Experiencia laboral
 ### Fundación El Peñón, I.A.P.
-- *Academia de Ciencias.*
+*Academia de Ciencias.*
 - **Cargo:** Profesor de Física
 - **Fecha:** Febrero 2018 - Julio 2023
 - **Descripción:**
@@ -23,7 +23,7 @@
   - Entrenador de Ajedrez Categoría A (2022-23).
   
 ### Universidad Autónoma del Estado de Morelos, UAEM.
-- *Instituto de Investigación en Ciencias Básicas y Aplicadas, IICBA.*
+*Instituto de Investigación en Ciencias Básicas y Aplicadas, IICBA.*
 - **Cargo:** Entrenador
 - **Fecha:** Febrero 2018 - Noviembre 2020
 - **Descripción:**
@@ -31,7 +31,7 @@
   - Entrenador de selección estatal para la Olimpiada Nacional de Física (2018, 2019).
 
 ### Instituto de Ciencias Físicas, ICF-UNAM.
-- *Departamento de Física Teórica y Computacional.*
+*Departamento de Física Teórica y Computacional.*
 - **Cargo:** Ayudante de investigador
 - **Fecha:** Enero 2016 - Enero 2018
 - **Descripción:**
